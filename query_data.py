@@ -26,8 +26,8 @@ st.set_page_config(
 )
 
 # App Title
-st.title("📚 LangChain Q&A with Chroma & OpenAI")
-st.write("Ask questions based on your embedded documents using **LangChain** and **Chroma**.")
+st.title("📚 Customer Support")
+st.write("Ask questions related to our company or services.")
 
 # Load API key from Streamlit secrets (works both locally and on cloud)
 try:
